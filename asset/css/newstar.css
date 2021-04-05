@@ -12,10 +12,15 @@ body {
     margin: auto;
 }
 
-#logons {
-    max-width: 40%;
+#logo {
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+#logons {
+    max-width: 45%;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 #img_ {
@@ -28,6 +33,11 @@ a {
 
 i {
     color: white;
+    margin: 25px 25px 25px 25px;
+}
+
+#rowmenu {
+    margin: 0px;
 }
 
 
